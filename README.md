@@ -23,8 +23,6 @@ Soy un estudiante apasionado por la tecnología y el desarrollo de software, Me 
 <div align="center">
   
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=g30dl&show_icons=true&theme=radical&hide_border=true&count_private=true)
-   
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=g30dl&layout=compact&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=g30dl&theme=radical&hide_border=true)
 
