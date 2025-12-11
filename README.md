@@ -12,7 +12,7 @@ Soy un estudiante apasionado por la tecnología y el desarrollo de software, Me 
 
 - 🌱 **Actualmente aprendiendo:** Tecnologías de backend y frontend, patrones de diseño de software y arquitectura de computadoras
 - 👯 **Busco colaborar en:** Proyectos Open Source de nivel inicial y Hackathons
-- 🎮 **Intereses especiales:** Desarrollo de videojuegos e implementación de IA en diversos proyectos
+- 🎮 **Intereses especiales:** Desarrollo de videojuegos, implementación de IA en diversos proyectos y cyberseguridad
 - 💡 **Dato curioso:** Contribuir a proyectos Open Source y desarrollar mi primer videojuego indie
 
 
@@ -36,7 +36,7 @@ Soy un estudiante apasionado por la tecnología y el desarrollo de software, Me 
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geovanny-diaz-loor-7200442ba/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](geovannydiazloor@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](tu-portfolio)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](portfolio)
 
 </div>
 
